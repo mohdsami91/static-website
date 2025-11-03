@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">Horizon campus illustration</title>
+  <desc id="desc">Stylized illustration of campus buildings with gradients</desc>
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d9e9ff" />
+      <stop offset="100%" stop-color="#f5fbff" />
+    </linearGradient>
+    <linearGradient id="building" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b5ed7" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0b5ed7" stop-opacity="0.6" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#15aabf" />
+      <stop offset="100%" stop-color="#0b5ed7" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#sky)" />
+  <rect x="0" y="360" width="640" height="120" fill="#e6f1ff" />
+  <g opacity="0.9">
+    <rect x="90" y="170" width="120" height="200" rx="12" fill="url(#building)" />
+    <rect x="240" y="140" width="150" height="230" rx="16" fill="url(#building)" opacity="0.75" />
+    <rect x="430" y="190" width="110" height="180" rx="14" fill="url(#building)" opacity="0.8" />
+    <rect x="270" y="290" width="90" height="80" fill="#0b5ed7" opacity="0.6" />
+    <rect x="120" y="220" width="60" height="150" fill="#0b5ed7" opacity="0.6" />
+  </g>
+  <path d="M40 360 Q160 300 280 340 T520 330 L600 360 Z" fill="url(#accent)" opacity="0.25" />
+  <circle cx="520" cy="110" r="36" fill="#15aabf" opacity="0.35" />
+  <circle cx="520" cy="110" r="24" fill="#fff" opacity="0.6" />
+  <path d="M70 360 h500" stroke="#0b5ed7" stroke-width="6" stroke-linecap="round" opacity="0.45" />
+</svg>

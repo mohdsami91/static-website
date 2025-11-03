@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Horizon central library</title>
+  <desc id="desc">Stylized illustration of a modern library building</desc>
+  <defs>
+    <linearGradient id="lib" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b5ed7" />
+      <stop offset="100%" stop-color="#0b5ed7" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" rx="24" fill="#eef5ff" />
+  <rect x="70" y="120" width="460" height="200" rx="18" fill="#ffffff" stroke="#0b5ed7" stroke-width="8" stroke-opacity="0.1" />
+  <rect x="90" y="140" width="140" height="160" rx="12" fill="url(#lib)" opacity="0.85" />
+  <rect x="250" y="140" width="120" height="160" rx="12" fill="url(#lib)" opacity="0.65" />
+  <rect x="390" y="140" width="120" height="160" rx="12" fill="url(#lib)" opacity="0.75" />
+  <rect x="70" y="300" width="460" height="20" fill="#0b5ed7" opacity="0.2" />
+  <rect x="60" y="320" width="480" height="14" rx="7" fill="#15aabf" opacity="0.25" />
+  <circle cx="480" cy="100" r="32" fill="#15aabf" opacity="0.2" />
+  <circle cx="130" cy="320" r="10" fill="#0b5ed7" opacity="0.35" />
+  <circle cx="470" cy="320" r="10" fill="#0b5ed7" opacity="0.35" />
+</svg>
