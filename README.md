@@ -1,6 +1,6 @@
 # 🌐 Institutional Static Website
 
-This repository contains the source code for an institutional **static website**, designed to represent an organization, college, or educational institution. The website provides structured sections such as *About Us*, *Courses/Departments*, *Gallery*, *Contact Information*, and *Mission & Vision* — built entirely using HTML, CSS, and JavaScript for a fast, responsive, and modern experience.
+This repository contains the source code for an institutional **static website**, designed to represent an organization, college, or educational institution. This website provides structured sections such as *About Us*, *Courses/Departments*, *Gallery*, *Contact Information*, and *Mission & Vision* — built entirely using HTML, CSS, and JavaScript for a fast, responsive, and modern experience.
 
 ---
 
